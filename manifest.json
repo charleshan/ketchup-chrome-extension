@@ -1,7 +1,7 @@
 {
   "name": "Ketchup",
   "version": "1.0",
-  "description": "Catch up with Reddit, Twitter, and Hacker News on your own terms. Configure your own newsletter for any topic on the web.",
+  "description": "Catch up with Reddit, Twitter, and Hacker News on your own terms with configurable newsletters. Configure your own newsletter for any topic on the web.",
   "permissions": ["activeTab"],
   "icons": {
   	"16": "icon16.png",
