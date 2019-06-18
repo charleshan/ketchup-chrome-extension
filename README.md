@@ -1,4 +1,4 @@
-![Ketchup Promo Image](marquee-promo-tile.png)
+[![Ketchup Promo Image](marquee-promo-tile.png)](https://ketchup.today/chrome/)
 
 # Ketchup Chrome Extension
 **Catch up with Reddit, Twitter, and Hacker News with customizable curation.**
