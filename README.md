@@ -1,4 +1,6 @@
-# ketchup-chrome-extension
+![Ketchup Promo Image](marquee-promo-tile.png)
+
+# Ketchup Chrome Extension
 **Catch up with Reddit, Twitter, and Hacker News with customizable curation.**
 
 [Ketchup.today](https://ketchup.today/) lets you catch up with the people and the topics that matter to you on your own terms. 
